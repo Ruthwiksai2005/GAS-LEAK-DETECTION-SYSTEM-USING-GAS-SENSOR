@@ -53,6 +53,7 @@ Step 7: Save Your Work
 •	Save the Circuit: Click "Save" to keep your circuit design and code for future use.
 
 ## Program:
+```
 int LED = A1;          //Red LED
 int LED1 = A3;         //Green LED
 int gas_pin = A0;       // For Gas Sensor
@@ -98,8 +99,7 @@ void loop() {
   delay(1000);
 
 }
-
-
+```
 ## Output:
 
 https://github.com/user-attachments/assets/7b257220-cbe2-4da9-872a-7c6be65a8a2f
